@@ -1,9 +1,3 @@
-// Link bài tập: https://docs.google.com/document/d/1dOKBt0epsxVNdcXwuHWlZrerUVuudlpXFFUrp2FxsXY/mobilebasic 
-// Link nộp bài tập: https://docs.google.com/spreadsheets/d/12GjDTtAaGKTfuXxNoHy8uiWJUfbHRSpJpH42cIGE5iY/edit#gid=0
-
-//1:15:11
-// https://zoom.us/rec/play/M7KDlpc167wNh28woFPZwUIzXB9ZqgWejQutdSnnlCxrnwo3uoUJJ-ava7Z-zknto2lIZ5R21i4g5zAf._YSG9NoFPjMNCiBY?continueMode=true&_x_zm_rtaid=YaTWrJBCS4W_1OV8yRcksg.1647142383622.dead8823fd69ef13c7f2d8c116875d67&_x_zm_rhtaid=994
-// pass: 10/03/2022/Reactjs2201
 var readlineSync = require('readline-sync'); //Khai báo readline-sync
 var fs = require('fs-js'); // Khai báo fs-js
 var shortid = require('shortid');
